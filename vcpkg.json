@@ -1,0 +1,10 @@
+{
+  "name": "animationqueuefix",
+  "version": "1",
+  "dependencies": [
+    "fmt",
+    "rapidcsv",
+    "rsm-binary-io",
+    "spdlog"
+  ]
+}
